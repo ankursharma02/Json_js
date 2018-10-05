@@ -1,0 +1,10 @@
+D:\C#pro\Json_serial\Json_serial\bin\Debug\Json_serial.exe.config
+D:\C#pro\Json_serial\Json_serial\bin\Debug\Json_serial.exe
+D:\C#pro\Json_serial\Json_serial\bin\Debug\Json_serial.pdb
+D:\C#pro\Json_serial\Json_serial\bin\Debug\Newtonsoft.Json.dll
+D:\C#pro\Json_serial\Json_serial\bin\Debug\Newtonsoft.Json.xml
+D:\C#pro\Json_serial\Json_serial\obj\Debug\Json_serial.csprojAssemblyReference.cache
+D:\C#pro\Json_serial\Json_serial\obj\Debug\Json_serial.csproj.CoreCompileInputs.cache
+D:\C#pro\Json_serial\Json_serial\obj\Debug\Json_serial.csproj.CopyComplete
+D:\C#pro\Json_serial\Json_serial\obj\Debug\Json_serial.exe
+D:\C#pro\Json_serial\Json_serial\obj\Debug\Json_serial.pdb
